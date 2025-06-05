@@ -1,6 +1,6 @@
 # 🍽️ Food Recommendation System (IR Project)
 
-This project is a **Food Recommendation System** developed as part of an Information Retrieval (IR) project. It uses data preprocessing, content-based filtering, and a web interface built using **Streamlit** to help users get personalized food suggestions.
+This project is a **Food Recommendation System** developed as part of an Information Retrieval (IR) project. It uses data preprocessing, content-based filtering,collaborative based filtering,hybrid based filtering, and a web interface built using **Streamlit** to help users get personalized food suggestions.
 
 ---
 
