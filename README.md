@@ -38,6 +38,6 @@ streamlit run app.py
 
 📊 **Data Preprocessing**: Handles missing values, tokenization, and merging datasets.
 
-🤖 **Recommendation Engine**: Uses cosine similarity or content-based filtering to suggest food items.
+🤖 **Recommendation Engine**: Uses content-based,collaborative based and hybrid based filtering to suggest food items.
 
 🌐 **Streamlit Interface**: Lightweight and interactive web interface for demo purposes.
